@@ -5,7 +5,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-jimilprabtani.me-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=black)](https://jimilprabtani.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-here)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jimil-prabtani-35a4902aa/)
 [![Email](https://img.shields.io/badge/Email-jimilprabtani0816%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jimilprabtani0816@gmail.com)
 
 </div>
@@ -17,7 +17,7 @@
 > **Cloud Security Engineer** blending Azure and AWS security engineering with hands-on network defense and DevSecOps automation — **AZ-500** and **AZ-700** certified, currently working toward **SC-100 (Security Architecture)**,  **AZ-400 (DevOps Engineer Expert)** and **AWS Security Specialty**
 
 - 🎓 Came up through a Software Systems Engineering background before specializing in security
-- 🧠 I learn by rebuilding — every project below started as "how does this actually work under the hood?"
+- 🧠 I learn by building and reverse engineering — every project below started as "how does this actually work under the hood?"
 - 🛠️ Currently building: hands-on Security projects both locally and in cloud environments, and **Also actively working on Software Engineering**
 - 🎸 Away from the terminal: reading, writing, learning guitar, and staying active
 
@@ -174,24 +174,41 @@ An offline-first Git security scanner. Bare-clones a repo and checks every branc
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Arsenal & Security Stack
 
 <div align="center">
 
-**Cloud & Identity**
+### 🛡️ Blue Team & Defensive Security
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Microsoft Defender for Cloud](https://img.shields.io/badge/Defender_for_Cloud-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Azure WAF](https://img.shields.io/badge/Azure_WAF-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Front Door](https://img.shields.io/badge/Azure_Front_Door-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS Security Hub](https://img.shields.io/badge/AWS_Security_Hub-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS GuardDuty](https://img.shields.io/badge/AWS_GuardDuty-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS WAF](https://img.shields.io/badge/AWS_WAF-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS Secrets Manager](https://img.shields.io/badge/AWS_Secrets_Manager-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-212529?style=for-the-badge&logo=pfsense&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Scapy](https://img.shields.io/badge/Scapy_Analyzer-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Aikido Security](https://img.shields.io/badge/Aikido_Security-6B46C1?style=for-the-badge)
 
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+<br/>
 
-**Network & Security Tooling**
+### ⚔️ Red Team & Offensive Security
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C93?style=for-the-badge&logo=kalilinux&logoColor=white)
+![OWASP Top 10](https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Web VAPT](https://img.shields.io/badge/Web_VAPT_Toolkit-DC3545?style=for-the-badge&logo=bugcrowd&logoColor=white)
+![Phishing Simulation](https://img.shields.io/badge/Phishing_Simulation-FFC107?style=for-the-badge&logo=googlegmail&logoColor=black)
+![Git Scanner](https://img.shields.io/badge/Git_Vulnerability_Scanner-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Attack Simulation](https://img.shields.io/badge/Attack_Simulation-8B0000?style=for-the-badge&logo=target&logoColor=white)
 
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+<br/>
+
+### 🔒 DevSecOps, IaC & Supply Chain Security
 ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-**DevOps & IaC**
-
+![Gitleaks](https://img.shields.io/badge/Gitleaks-000000?style=for-the-badge&logo=git&logoColor=white)
+![OWASP Dep-Check](https://img.shields.io/badge/OWASP_Dep--Check-000000?style=for-the-badge&logo=owasp&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -199,31 +216,55 @@ An offline-first Git security scanner. Bare-clones a repo and checks every branc
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
-**Languages & Frameworks**
+<br/>
 
+### ☁️ Cloud Platform & Identity Management
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Microsoft Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![AWS IAM](https://img.shields.io/badge/AWS_IAM-DD344C?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![OIDC & Identities](https://img.shields.io/badge/OIDC_%26_Managed_Identities-0078D4?style=for-the-badge&logo=openid&logoColor=white)
+![Azure Key Vault](https://img.shields.io/badge/Azure_Key_Vault-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+<br/>
+
+### 🤖 AI Security & Intelligent Automation
+![OWASP LLM Top 10](https://img.shields.io/badge/OWASP_LLM_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![MITRE ATLAS](https://img.shields.io/badge/MITRE_ATLAS-FF6600?style=for-the-badge&logo=mitre&logoColor=white)
+![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+<br/>
+
+### 💻 Languages, Web Frameworks & Databases
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-**AI & Automation**
+<br/>
 
-![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-**Monitoring**
-
+### 📊 Monitoring, Observability & Analytics
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![AWS CloudWatch](https://img.shields.io/badge/AWS_CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS CloudTrail](https://img.shields.io/badge/AWS_CloudTrail-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Log Analytics](https://img.shields.io/badge/Azure_Log_Analytics-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 </div>
 
+---
+
 <div align="center">
 
-**Open to Cloud Security Engineering, SOC/Security Analysis, and Security Architecture roles.**
+**Open to Cloud Security Engineering, Security Architecture, SOC Analysis, and DevSecOps roles.**
 
 </div>
