@@ -14,7 +14,7 @@
 
 ## 🔐 About Me
 
-> **Cloud Security Engineer** blending Azure and AWS security engineering with hands-on network defense and DevSecOps automation — **AZ-500** and **AZ-700** certified, currently working toward **SC-100 (Security Architecture)**,  **AZ-400 (DevOps Engineer Expert)** and **AWS Security Specialty**
+> **Cloud Security Engineer** blending Azure and AWS security engineering with hands-on network defense, Identity an Access Management and DevSecOps automation — **AZ-500** **SC-300** **AZ-700** certified, currently working toward **SC-100 (Security Architecture)**,  **AZ-400 (DevOps Engineer Expert)** and **AWS Security Specialty**
 
 - 🎓 Came up through a Software Systems Engineering background before specializing in security
 - 🧠 I learn by building and reverse engineering — every project below started as "how does this actually work under the hood?"
@@ -29,6 +29,7 @@
 
 ![AZ-500](https://img.shields.io/badge/AZ--500-Azure_Security_Engineer_Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AZ-700](https://img.shields.io/badge/AZ--700-Azure_Network_Engineer_Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![SC-300](https://img.shields.io/badge/SC-300--Identity_and_access_management_associate?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Security+](https://img.shields.io/badge/CompTIA-Security%2B-E4002B?style=for-the-badge)
 ![Network+](https://img.shields.io/badge/CompTIA-Network%2B-E4002B?style=for-the-badge)
 ![Palo Alto Networks](https://img.shields.io/badge/Palo_Alto_Networks-Security_Fundamentals-00A99D?style=for-the-badge)
@@ -47,7 +48,7 @@
 
 **Cloud Security**
 - Hands on experience of Azure and AWS environments 
-- AWS IAM, Entra ID
+- AWS IAM, Entra ID, Preview Suite
 - Microsoft Defender for Cloud, Sentinel
 - AWS Security Hub, CSPM, GuardDuty, WAF
 - Secrets Manager, IAM Access Analyzer
