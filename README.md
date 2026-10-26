@@ -29,7 +29,7 @@
 
 ![AZ-500](https://img.shields.io/badge/AZ--500-Azure_Security_Engineer_Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AZ-700](https://img.shields.io/badge/AZ--700-Azure_Network_Engineer_Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![SC-300](https://img.shields.io/badge/SC-300--Identity_and_access_management_associate?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![SC-300](https://img.shields.io/badge/SC--300--Identity_and_access_management_Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Security+](https://img.shields.io/badge/CompTIA-Security%2B-E4002B?style=for-the-badge)
 ![Network+](https://img.shields.io/badge/CompTIA-Network%2B-E4002B?style=for-the-badge)
 ![Palo Alto Networks](https://img.shields.io/badge/Palo_Alto_Networks-Security_Fundamentals-00A99D?style=for-the-badge)
